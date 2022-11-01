@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emergentes/static/css/main.43cb6ffd.css",
+    "main.js": "/emergentes/static/js/main.770ab78e.js",
+    "static/js/787.aff05db8.chunk.js": "/emergentes/static/js/787.aff05db8.chunk.js",
+    "index.html": "/emergentes/index.html",
+    "main.43cb6ffd.css.map": "/emergentes/static/css/main.43cb6ffd.css.map",
+    "main.770ab78e.js.map": "/emergentes/static/js/main.770ab78e.js.map",
+    "787.aff05db8.chunk.js.map": "/emergentes/static/js/787.aff05db8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43cb6ffd.css",
+    "static/js/main.770ab78e.js"
+  ]
+}
